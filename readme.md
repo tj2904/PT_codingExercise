@@ -24,7 +24,7 @@ There are 2 methods within the class:
 
 ## Tests
 
-Tests are provided using unittest. These assert the responses of both methods using a randomly chosen selection of 4 students from the provided data. Run ```test_pt_classes.py``` from Python's shell.
+Tests are provided using unittest. These assert the responses of both methods using a randomly chosen selection of 4 students from the provided data. Run ```test_pt_studentRanking.py``` from Python's shell.
 
 ## Design decisions
 
